@@ -1,0 +1,16 @@
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\bin\Debug\netcoreapp3.1\for döngs1.exe
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\bin\Debug\netcoreapp3.1\for döngs1.deps.json
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\bin\Debug\netcoreapp3.1\for döngs1.runtimeconfig.json
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\bin\Debug\netcoreapp3.1\for döngs1.runtimeconfig.dev.json
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\bin\Debug\netcoreapp3.1\for döngs1.dll
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\bin\Debug\netcoreapp3.1\for döngs1.pdb
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.csproj.AssemblyReference.cache
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for_döngs1.Form1.resources
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.csproj.GenerateResource.cache
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.GeneratedMSBuildEditorConfig.editorconfig
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.AssemblyInfoInputs.cache
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.AssemblyInfo.cs
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.csproj.CoreCompileInputs.cache
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.dll
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.pdb
+E:\yazılım projeleri\proje2\for döngs1\for döngs1\obj\Debug\netcoreapp3.1\for döngs1.genruntimeconfig.cache
